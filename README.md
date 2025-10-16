@@ -1,6 +1,6 @@
 # Netflix Data Analysis Using Pandas
 
-**[View the Project](https://github.com/Dharani1202/Netflix-Data-Analysis-using---Pandas)**
+* <a href="https://github.com/Dharani1202/Netflix-Data-Analysis-using---Pandas/blob/main/Netflix%20Data%20Analysis.ipynb"> View the Project </a>
 
 ## About
 
@@ -123,7 +123,7 @@ Used **Matplotlib** and **Seaborn** to create:
 
 ---
 
-**[View the Project](https://github.com/Dharani1202/Netflix-Data-Analysis-using---Pandas)**
+* <a href="https://github.com/Dharani1202/Netflix-Data-Analysis-using---Pandas/blob/main/Netflix%20Data%20Analysis.ipynb"> View the Project </a>
 
 
 
